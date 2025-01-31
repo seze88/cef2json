@@ -1,0 +1,35 @@
+2025-01-31T08:23:47-05:00 PANOSVM CEF: 0|Palo Alto Networks|PAN-OS|11.2.3-h3|0|GLOBALPROTECT|1|rt=Jan 31 2025 16:23:47 GMT PanOSDeviceSN= PanOSLogTimeStamp=Jan 31 2025 16:23:47 GMT PanOSVir
+tualSystem=vsys1 PanOSEventID=gateway-setup-ssl PanOSStage=tunnel PanOSAuthMethod= PanOSTunnelType=SSLVPN PanOSSourceUserName=sentineltest PanOSSourceRegion=US PanOSEndpointDeviceName=LAPTO
+P-13H78GN8 PanOSPublicIPv4=68.134.37.111 PanOSPublicIPv6=0.0.0.0 PanOSPrivateIPv4=10.0.1.1 PanOSPrivateIPv6=0.0.0.0 PanOSHostID=f7290ebd-44dc-40ec-bbdd-1b7324bb89a3 PanOSDeviceSN=5CD0238Y2V
+ PanOSGlobalProtectClientVersion=6.0.7 PanOSEndpointOSType=Windows PanOSEndpointOSVersion="Microsoft Windows 10 Home , 64-bit" PanOSCountOfRepeats=1 PanOSQuarantineReason= PanOSConnectionEr
+ror= PanOSDescription= PanOSEventStatus=success PanOSGPGatewayLocation= PanOSLoginDuration=0 PanOSConnectionMethod= PanOSConnectionErrorID=0 PanOSPortal=GlobalProtectGW PanOSSequenceNo=7466
+115433603530760 PanOSActionFlags=0x0 PanOSTimeGeneratedHighResolution=2025-01-31T08:23:47.763-08:00 PanOSGatewaySelectionType= PanOSSSLResponseTime= PanOSGatewayPriority= PanOSAttemptedGate
+ways= PanOSGateway= gateway-setup-ssl
+2025-01-31T08:23:56-05:00 PANOSVM CEF: 0|Palo Alto Networks|PAN-OS|11.2.3-h3|0|GLOBALPROTECT|1|rt=Jan 31 2025 16:23:55 GMT PanOSDeviceSN= PanOSLogTimeStamp=Jan 31 2025 16:23:55 GMT PanOSVir
+tualSystem=vsys1 PanOSEventID=gateway-connected PanOSStage=connected PanOSAuthMethod=local-database PanOSTunnelType=SSLVPN PanOSSourceUserName=sentineltest PanOSSourceRegion=US PanOSEndpoin
+tDeviceName=LAPTOP-13H78GN8 PanOSPublicIPv4=68.134.37.111 PanOSPublicIPv6=0.0.0.0 PanOSPrivateIPv4=10.0.1.1 PanOSPrivateIPv6=0.0.0.0 PanOSHostID=f7290ebd-44dc-40ec-bbdd-1b7324bb89a3 PanOSDe
+viceSN=5CD0238Y2V PanOSGlobalProtectClientVersion=6.0.7 PanOSEndpointOSType=Windows PanOSEndpointOSVersion="Microsoft Windows 10 Home , 64-bit" PanOSCountOfRepeats=1 PanOSQuarantineReason= 
+PanOSConnectionError= PanOSDescription= PanOSEventStatus=success PanOSGPGatewayLocation= PanOSLoginDuration=0 PanOSConnectionMethod= PanOSConnectionErrorID=0 PanOSPortal=GlobalProtectGW Pan
+OSSequenceNo=7466115433603530761 PanOSActionFlags=0x0 PanOSTimeGeneratedHighResolution=2025-01-31T08:23:56.118-08:00 PanOSGatewaySelectionType= PanOSSSLResponseTime= PanOSGatewayPriority= P
+anOSAttemptedGateways= PanOSGateway= gateway-connected
+2025-01-31T08:23:56-05:00 PANOSVM CEF: 0|Palo Alto Networks|PAN-OS|11.2.3-h3|0|GLOBALPROTECT|1|rt=Jan 31 2025 16:23:55 GMT PanOSDeviceSN= PanOSLogTimeStamp=Jan 31 2025 16:23:55 GMT PanOSVir
+tualSystem=vsys1 PanOSEventID=gateway-tunnel-latency PanOSStage=tunnel PanOSAuthMethod= PanOSTunnelType= PanOSSourceUserName=sentineltest PanOSSourceRegion=US PanOSEndpointDeviceName=LAPTOP
+-13H78GN8 PanOSPublicIPv4=68.134.37.111 PanOSPublicIPv6=0.0.0.0 PanOSPrivateIPv4=68.134.37.111 PanOSPrivateIPv6=0.0.0.0 PanOSHostID=f7290ebd-44dc-40ec-bbdd-1b7324bb89a3 PanOSDeviceSN=5CD023
+8Y2V PanOSGlobalProtectClientVersion=6.0.7 PanOSEndpointOSType=any PanOSEndpointOSVersion= PanOSCountOfRepeats=1 PanOSQuarantineReason= PanOSConnectionError= PanOSDescription="Pre-tunnel la
+tency: 60ms, Post-tunnel latency: 141ms" PanOSEventStatus=success PanOSGPGatewayLocation= PanOSLoginDuration=0 PanOSConnectionMethod= PanOSConnectionErrorID=0 PanOSPortal=GlobalProtectGW Pa
+nOSSequenceNo=7466115433603530762 PanOSActionFlags=0x0 PanOSTimeGeneratedHighResolution=2025-01-31T08:23:56.119-08:00 PanOSGatewaySelectionType= PanOSSSLResponseTime= PanOSGatewayPriority= 
+PanOSAttemptedGateways= PanOSGateway= gateway-tunnel-latency
+2025-01-31T08:23:56-05:00 PANOSVM CEF: 0|Palo Alto Networks|PAN-OS|11.2.3-h3|0|GLOBALPROTECT|1|rt=Jan 31 2025 16:23:55 GMT PanOSDeviceSN= PanOSLogTimeStamp=Jan 31 2025 16:23:55 GMT PanOSVir
+tualSystem=vsys1 PanOSEventID=gateway-hip-check PanOSStage=host-info PanOSAuthMethod= PanOSTunnelType= PanOSSourceUserName=sentineltest PanOSSourceRegion=US PanOSEndpointDeviceName=LAPTOP-1
+3H78GN8 PanOSPublicIPv4=68.134.37.111 PanOSPublicIPv6=0.0.0.0 PanOSPrivateIPv4=10.0.1.1 PanOSPrivateIPv6=0.0.0.0 PanOSHostID=f7290ebd-44dc-40ec-bbdd-1b7324bb89a3 PanOSDeviceSN=5CD0238Y2V Pa
+nOSGlobalProtectClientVersion=6.0.7 PanOSEndpointOSType=any PanOSEndpointOSVersion= PanOSCountOfRepeats=1 PanOSQuarantineReason= PanOSConnectionError= PanOSDescription="HIP report is not ne
+eded" PanOSEventStatus=success PanOSGPGatewayLocation= PanOSLoginDuration=0 PanOSConnectionMethod= PanOSConnectionErrorID=0 PanOSPortal=GlobalProtectGW PanOSSequenceNo=7466115433603530763 P
+anOSActionFlags=0x0 PanOSTimeGeneratedHighResolution=2025-01-31T08:23:56.119-08:00 PanOSGatewaySelectionType= PanOSSSLResponseTime= PanOSGatewayPriority= PanOSAttemptedGateways= PanOSGatewa
+y= gateway-hip-check
+sentineltest@Syslog:/var/log$ tail -200 syslog |grep 'GLOBAL'
+2025-01-31T08:23:45-05:00 PANOSVM CEF: 0|Palo Alto Networks|PAN-OS|11.2.3-h3|0|GLOBALPROTECT|1|rt=Jan 31 2025 16:23:45 GMT PanOSDeviceSN= PanOSLogTimeStamp=Jan 31 2025 16:23:45 GMT PanOSVir
+tualSystem=vsys1 PanOSEventID=portal-prelogin PanOSStage=before-login PanOSAuthMethod= PanOSTunnelType= PanOSSourceUserName= PanOSSourceRegion=US PanOSEndpointDeviceName= PanOSPublicIPv4=68
+.134.37.111 PanOSPublicIPv6=0.0.0.0 PanOSPrivateIPv4=0.0.0.0 PanOSPrivateIPv6=0.0.0.0 PanOSHostID=f7290ebd-44dc-40ec-bbdd-1b7324bb89a3 PanOSDeviceSN= PanOSGlobalProtectClientVersion=6.0.7 P
+anOSEndpointOSType=Windows PanOSEndpointOSVersion="Microsoft Windows 10 Home , 64-bit" PanOSCountOfRepeats=1 PanOSQuarantineReason= PanOSConnectionError= PanOSDescription= PanOSEventStatus=
+success PanOSGPGatewayLocation= PanOSLoginDuration=0 PanOSConnectionMethod= PanOSConnectionErrorID=0 PanOSPortal=GP-VPN PanOSSequenceNo=7466115433603530752 PanOSActionFlags=0x0 PanOSTimeGen
+eratedHighResolution=2025-01-31T08:23:45.507-08:00 PanOSGatewaySelectionType= PanOSSSLResponseTime= PanOSGatewayPriority= PanOSAttemptedGateways= PanOSGateway= portal-prelogin
